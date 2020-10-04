@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: com.example
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, cache-caffeine, data, data-jpa, flyway, graalvm, gradle, graphql, grpc, hibernate-jpa, hibernate-validator, http-client, java, java-application, jdbc-hikari, kafka, logback, nats, netflix-archaius, postgres, readme, redis-lettuce, shade, spock, testcontainers, yaml]
